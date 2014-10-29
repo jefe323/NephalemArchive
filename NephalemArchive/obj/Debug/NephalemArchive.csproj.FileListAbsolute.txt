@@ -1,0 +1,10 @@
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\bin\Debug\NephalemArchive.exe
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\bin\Debug\NephalemArchive.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\obj\Debug\NephalemArchive.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\obj\Debug\NephalemArchive.Form1.resources
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\obj\Debug\NephalemArchive.Properties.Resources.resources
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\obj\Debug\NephalemArchive.csproj.GenerateResource.Cache
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\obj\Debug\NephalemArchive.exe
+c:\users\jeff\documents\visual studio 2013\Projects\NephalemArchive\NephalemArchive\obj\Debug\NephalemArchive.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\NephalemArchive\NephalemArchive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\NephalemArchive\NephalemArchive\bin\Debug\Newtonsoft.Json.xml
